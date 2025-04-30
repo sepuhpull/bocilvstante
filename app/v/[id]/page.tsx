@@ -174,12 +174,29 @@ const jsonLd = {
                         {file.title}
                     </CardTitle>
                 </CardHeader>
-                
+<center><script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1025826})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1025826" data-width="300" data-height="262"></ins>
+</center>
             </Card>
             <p>{file.title} di {SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pijat pelajar Hijab Abg Colmek Film Tante Hot Twitter Asia Download Live stw situs indonesia nonton link sd crot playbokep simontok bokepin montok baru perawan anak kecil telegram selingkuh ojol cantik gay vidio lokal artis pelajar janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh</p>
+<center><script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1025827})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1025827" data-width="300" data-height="262"></ins>
+</center>
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video {file.title}
             </h2>
+<center><script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1025828})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1025828" data-width="300" data-height="262"></ins>
+</center>
             <SearchCardList query={file.title.split(" ")[2]} />
             <p>Video Bokep indo jepang indonesia barat viral {file.title} di {SITENAME} bokep video terbaru bocil bokepindo korea jilbab smp japan ama sub sma jav cina japanese anime hijab abg colmek film tante twitter asia china rusia no sensor hot arab india download live stw thailand situs hd nonton link baru mom montok telegram perawan sd anak kecil crot bokepindoh selingkuh cantik ojol lokal vidio gay asian anime amerika hentail artis streaming pelajar janda hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja bokepindonesia wiki raja bokeptube full porno bokepmama simontok bokepind playbokep indobokep xpanasonline</p>
         </div>
